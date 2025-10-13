@@ -9,3 +9,5 @@ My research interests focus on Deep Learning & Generative AI, with a particular 
 Feel free to reach out to me via email: a3416270780@gmail.com 📧
 
 My hobbies include: Anime 🎥 & Watching live concerts 🎤 & Hiking 🏞️ & AI-generated voice ♫ ([Bilibili Space](https://space.bilibili.com/33080284?spm_id_from=333.1007.0.0)🌟).
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EscoffierZhou&show_icons=true&theme=tokyonight)
