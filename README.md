@@ -1,6 +1,6 @@
 ## Hello and welcome to my homepage! 👋 I'm EscoffierZhou.
 
-I’m currently a junior student at SDUFE 🎓 and I'm preparing for the 2027 graduate entrance exam (UESTC🎯[11408_2027](https://github.com/EscoffierZhou/11408_2027)). 
+I’m currently a junior student in Shandong 🎓 and I'm preparing for the 2027 graduate entrance exam (UESTC🎯[11408_2027](https://github.com/EscoffierZhou/11408_2027)). 
 
 My research interests focus on Deep Learning & Generative AI, with a particular emphasis on AI Infrastructure and CUDA🖥️. 
 
